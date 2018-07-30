@@ -1,6 +1,1 @@
-# Hello-World
-My first repository
-
-I'm a Brazilian student
-
-I want to be a developer
+Programa para resolver qualquer equação de segundo grau utilizando a fórmula de Bhaskara
